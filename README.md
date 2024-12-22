@@ -6,8 +6,8 @@ To make any info contributions as easy as possible, I've activated:
 - **Discussions** area
 - **Issues** area
 
-# Virus Scan
+# Virus Scan?
 For what it's worth, the packaged exe of the original looks clean in anti-virus.
 
 # Bio Note
-I have no programming skills or understanding though I've contributed to projects in documentation and images/thumbnails.
+I have no programming skills or understanding though I've contributed to projects in documentation and images/thumbnails and support.  If I can help you (reader) in some way, let me know.

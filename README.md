@@ -6,6 +6,8 @@ To make any info contributions as easy as possible, I've activated:
 - **Discussions** area
 - **Issues** area
 
+When I ran the exe, both before and after running RPCS3 & Demon's Souls, nothing happened that I could perceive.
+
 # Virus Scan?
 For what it's worth, the packaged exe of the original looks clean in anti-virus.
 

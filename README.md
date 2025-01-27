@@ -1,5 +1,9 @@
+# Credit & Original Source
+
+Forked from https://github.com/13xforever/demons-souls-trainer
+
 # In Need of Simple Documentation / How-To
-I forked this trainer repository because I have no idea how it works or how to use it.  The creator didn't provide any documentation or readme, or any info when I contacted them (via the only available option of annoying pull-request-as-direct-message regretably), and there was no issues/discussion/wiki.  **If anyone can explain how to use this trainer** after looking at the code, do please add any documentation/info that you'd like to offer in one of the areas below, or by pull request to this Readme, I think it would be helpful to people.
+I forked this trainer repository from https://github.com/13xforever/demons-souls-trainer because I have no idea how it works or how to use it.  The creator didn't provide any documentation or readme, or any info when I contacted them (via the only available option of annoying pull-request-as-direct-message regretably), and there was no issues/discussion/wiki.  **If anyone can explain how to use this trainer** after looking at the code, do please add any documentation/info that you'd like to offer in one of the areas below, or by pull request to this Readme, I think it would be helpful to people.
 
 To make any info contributions as easy as possible, I've activated:
 - Unrestricted **Wiki**

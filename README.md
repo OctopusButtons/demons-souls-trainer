@@ -12,8 +12,9 @@ To make any info contributions as easy as possible, I've activated:
 
 When I ran the exe, both before and after running RPCS3 & Demon's Souls, nothing happened that I could perceive.
 
-# Virus Scan?
-For what it's worth, the packaged exe of the original looks clean in anti-virus.
+# Virus Scan = Clean
+
+For what it's worth, the packaged exe of the original looks clean in anti-virus.  Though you should be following good practice and always scanning your executables.
 
 # Bio Note
-I have no programming skills or understanding though I've contributed to projects in documentation and images/thumbnails and support.  If I can help you (reader) in some way, let me know.
+I have no programming skills or understanding though I've contributed to projects in documentation, databases, images/thumbnails, and support.  If I can help you (reader) in some way, or in exchange for documentation of the Demon's Souls Trainer, let me know.

@@ -10,8 +10,7 @@ Instructions from user georg-zeiser who [helpfully answered my public question](
 
 1. Download the zip file from the original project. Get the version from 02.07.2024, based on .net 8, this how-to might not work with other versions.
 2. Extract the zip file, there is a `.dll` file and an `.exe` file
-3. Copy the attached file `DesTrainer.runtimeconfig.json` into same folder
-[DesTrainer.runtimeconfig.json](https://github.com/user-attachments/files/33878922/DesTrainer.runtimeconfig.json). For transparency, the entire code of the `.json` file is (as you can see if you open the `.json` in a text editor):
+3. Copy this file [DesTrainer.runtimeconfig.json](https://github.com/user-attachments/files/33878922/DesTrainer.runtimeconfig.json) into same folder . For transparency, the entire code of the `.json` file is (as you can see if you open the `.json` in a text editor):
 ```
 {
   "runtimeOptions": {

@@ -2,7 +2,7 @@
 
 Forked from https://github.com/13xforever/demons-souls-trainer
 
-See [below](#The_purpose_of_this_fork) for the purpose of this fork.
+See [below](#The-purpose-of-this-fork) for the purpose of this fork.
 
 # How to Use
 

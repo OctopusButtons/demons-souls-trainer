@@ -38,9 +38,9 @@ The text "Searching for the process..." disappears. As soon as you are in the ga
 I forked this trainer repository from https://github.com/13xforever/demons-souls-trainer because I have no idea how to use it (I tried a few things, but nothing resulted).  The creator didn't provide documentation or readme, and confirmed they're not interested in providing info when I contacted them, and there was no issues/discussion/wiki.  **If anyone has anything helpful to add to the instructions above from Georg Zeiser**, after looking at the code, do please add any documentation/info that you'd like to offer in one of the areas below, or by pull request to this Readme, I think it would be helpful to people.
 
 To make any info contributions as easy as possible, I've activated:
-- Unrestricted **Wiki**
 - **Discussions** area
 - **Issues** area
+- Unrestricted **Wiki**
 
 # Virus Scan = Clean
 
